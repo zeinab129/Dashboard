@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Modern Dashboard</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="search">Search</string>
+    <string name="raya_and_the_last_dragon">Raya and the last dragon</string>
+    <string name="animation">Animation</string>
+    <string name="january_26_2021">January 26, 2021</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">View all</string>
+</resources>
